@@ -1,0 +1,13 @@
+= Deno GraphQL
+
+== To run
+[source,bash]
+----
+deno run --allow-net main.ts
+----
+
+Open browser in:
+[source,http request]
+----
+http://localhost:8080/graphql
+----
